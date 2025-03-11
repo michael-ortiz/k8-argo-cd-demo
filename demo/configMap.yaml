@@ -4,6 +4,6 @@ metadata:
   name: my-config-map
 data:
   application.properties: |
-    enemy.types=aliens,monsters
+    enemy.types=aliens,nice
     player.maximum-lives=5
   
