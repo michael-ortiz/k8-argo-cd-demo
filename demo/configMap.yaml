@@ -5,5 +5,5 @@ metadata:
 data:
   application.properties: |
     enemy.types=aliens,nice
-    player.maximum-lives=100
+    player.maximum-lives=1001
   
